@@ -52,3 +52,21 @@ ul {
 #contato p {
     line-height: 1.6;
 }
+
+h1 {
+    font-size: 38px;
+    color: #7b2d26;
+    text-align: center;
+}
+
+ul {
+    background-color: #fff8f0;
+    padding: 25px 40px;
+    border-radius: 8px;
+    line-height: 2.2;
+}
+
+li {
+    font-size: 18px;
+    color: #333;
+}
